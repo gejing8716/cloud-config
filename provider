@@ -6,4 +6,4 @@ spring:
     username: root
     password: sys
   application:
-    name: provider
+    name: cloud-provider
